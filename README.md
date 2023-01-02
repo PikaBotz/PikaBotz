@@ -10,7 +10,7 @@
 Hello babies, my name is 𝕻𝖎𝖐𝖆𝖈𝖍𝖚 and I'm a bot developer. Currently working on WhatsApp bots 🎸✨
 </div>
 
-[Contact me here 🔴](mhttps://api.whatsapp.com/send?phone=+918811074852)
+[Contact_here](mhttps://api.whatsapp.com/send?phone=+918811074852)
 <br>
 
 * I am from India, Assam.
@@ -44,5 +44,3 @@ Hello babies, my name is 𝕻𝖎𝖐𝖆𝖈𝖍𝖚 and I'm a bot developer. C
 [![𝕻𝖎𝖐𝖆's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PikaBotz&theme=high-contrast)](https://github.com/PikaBotz)
 
 ![RWBY Image Beach Wallpaper](https://user-images.githubusercontent.com/84690368/180107953-1166e03c-a5af-42ec-a767-f9cce4b41873.png)
-
-## > Provided by <code> [Readme Stats](https://github.com/PikaBotz/github-readme-stats)</code>  &  <code> [Spotify Profile](https://github.com/kittinan/spotify-github-profile)</code> & <code> [Activity Gragh](https://github.com/PikaBotz/github-readme-activity-graph) </code>
