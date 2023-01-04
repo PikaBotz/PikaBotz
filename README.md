@@ -10,7 +10,9 @@
 Hello babies, my name is 𝕻𝖎𝖐𝖆𝖈𝖍𝖚 and I'm a bot developer. Currently working on WhatsApp bots 🎸✨
 </div>
 
-[Contact_here](mhttps://api.whatsapp.com/send?phone=+918811074852)
+##
+## 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲
+* [PikaBotz](https://github.com/PikaBotz)
 <br>
 
 * I am from India, Assam.
