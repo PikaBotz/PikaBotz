@@ -12,7 +12,7 @@ Hello babies, my name is 𝕻𝖎𝖐𝖆𝖈𝖍𝖚 and I'm a bot developer. C
 
 ##
 ## 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲
-* [PikaBotz](https://github.com/PikaBotz)
+* [PikaBotz](https://api.whatsapp.com/send?phone=+918811074852)
 <br>
 
 * I am from India, Assam.
