@@ -37,7 +37,7 @@ Hello babies, my name is 𝕻𝖎𝖐𝖆𝖈𝖍𝖚 and I'm a bot developer. C
 
 # > <code>⠀⠀🌟⠀⠀Top Repositories⠀⠀</code>
 
-| ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PikaBotz&repo=Anya-pika-MD-v2&theme=vision-friendly-dark) | ![Ookami](https://github-readme-stats.vercel.app/api/pin/?username=PikaBotz&show_owner=true&repo=Foxy_shadow-MD&theme=radical&hide_border=true) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PikaBotz&repo=Anya-pika-MD-v2&theme=vision-friendly-dark)](https://github.com/PikaBotz/Anya-pika-MD-v2) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PikaBotz&repo=Foxy_shadow-MD&theme=vision-friendly-dark)](https://github.com/PikaBotz/Foxy_shadow-MD) |
 | ----- | ----- |
 
 <!--<code> <a href="https://matepedia.000webhostapp.com/HTML's/index.html" target="_blank"><img height="335px" align="center" src="https://matepedia.000webhostapp.com/Imagenes/NewSpace%20NewNew!!!!.png"></a> </code>-->
